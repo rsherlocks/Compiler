@@ -1,0 +1,4 @@
+"Enter a positive integer: 
+"This is another file
+"%d
+"Sum = %d
